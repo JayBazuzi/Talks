@@ -1,10 +1,10 @@
-# Links about me
-
 - Blog: https://jay.bazuzi.com/
 - Twitter: [@JayBazuzi](https://twitter.com/jaybazuzi)
 - [The Mob Programming Pattern Language](https://jay.bazuzi.com/Mobbing-Pattern-Language/)
 
 # Videos
+
+- [Read-by-Refactoring](https://www.youtube.com/watch?v=vrlY_ZzaHSY)
 
 ## Mob Mentality Show
 
