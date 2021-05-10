@@ -5,6 +5,7 @@
 # Videos
 
 - [Read-by-Refactoring](https://www.youtube.com/watch?v=vrlY_ZzaHSY)
+- [Twitch Sudoku Refactoring](https://www.youtube.com/watch?v=BVGH-dNn-tc&list=PLb4ON7iRsxZNaPcJiYkRSQJ4yg6r1VIHZ)
 
 ## Mob Mentality Show
 
