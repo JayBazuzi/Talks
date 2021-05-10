@@ -1,0 +1,16 @@
+# Links about me
+
+- Blog: https://jay.bazuzi.com/
+- Twitter: [@JayBazuzi](https://twitter.com/jaybazuzi)
+- [The Mob Programming Pattern Language](https://jay.bazuzi.com/Mobbing-Pattern-Language/)
+
+# Videos
+
+## Mob Mentality Show
+
+- [Remote Mob Programming with Strangers on shared cloud machines](https://www.youtube.com/watch?v=vB0rF0ElOT8)
+- [Levels of Mobbing](https://www.youtube.com/watch?v=MXr1ptmrjDI)
+
+# Select GitHub repos
+
+- [Machine Setup](https://github.com/JayBazuzi/machine-setup)
