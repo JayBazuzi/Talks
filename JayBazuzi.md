@@ -16,4 +16,4 @@
 
 # Select GitHub repos
 
-- [Secripts to set up a brand-new cloud machine as a development environment](https://github.com/JayBazuzi/machine-setup)
+- [Scripts to set up a brand-new cloud machine as a development environment](https://github.com/JayBazuzi/machine-setup)
