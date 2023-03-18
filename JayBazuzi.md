@@ -1,8 +1,9 @@
 # About Jay Bazuzi
 
 - Blog: https://jay.bazuzi.com/
-- Twitter: [@JayBazuzi](https://twitter.com/jaybazuzi)
+- Mastodon: [@JayBazuzi@mastodon.online](https://mastodon.online/@JayBazuzi)
 - [The Mob Programming Pattern Language](https://jay.bazuzi.com/Mobbing-Pattern-Language/)
+- Twitter (no longer active): [@JayBazuzi](https://twitter.com/jaybazuzi)
 
 # Videos
 
